@@ -1,3 +1,4 @@
+#!/bin/bash
 #this code to read from user
 read varname
 echo Welcome $varname
