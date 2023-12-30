@@ -1,4 +1,8 @@
+#The shebang '#! ' at the start of a bash script specifies the interpreter for the
+#script, for example, #!/bin/bash . It's a directive to the system indicating
+#which interpreter to use when executing the script.
 #!/bin/bash
+
 #this code to read from user
 read varname
 echo Welcome $varname
